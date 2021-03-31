@@ -43,10 +43,15 @@
 
 ![알고리즘](https://user-images.githubusercontent.com/80510945/113150609-37cae100-926f-11eb-9ef7-6fdea6db7e34.png)
 ## 4. 자바 코드
+```java
+
+
+```
+
 
 ## 5. 결과
 
-## 6. 참조
+## 6. 참조 및 이미지
 
 [위키백과(1번째사진)]([최근접 점쌍 문제 - 위키백과, 우리 모두의 백과사전 (wikipedia.org)](https://ko.wikipedia.org/wiki/최근접_점쌍_문제))
 
