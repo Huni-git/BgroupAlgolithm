@@ -42,6 +42,18 @@
 7. 부분해를 모두 취합 후, 최소 거리를 가진 최근접 점 좌표를 찾아낸다.
 
 ![알고리즘](https://user-images.githubusercontent.com/80510945/113150609-37cae100-926f-11eb-9ef7-6fdea6db7e34.png)
+## 4. 자바 코드
+
+## 5. 결과
+
+## 6. 참조
+
+[위키백과(1번째사진)]([최근접 점쌍 문제 - 위키백과, 우리 모두의 백과사전 (wikipedia.org)](https://ko.wikipedia.org/wiki/최근접_점쌍_문제))
+
+[2번째사진]()
+
+[IT 블로그(3번째 사진)]([[Algorithm\] 최근접 점의 쌍 찾기 (분할정복) | NoName, IT blog (dudri63.github.io)](https://dudri63.github.io/2019/01/19/algo8/))
+
 
 
 
