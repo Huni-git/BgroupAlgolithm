@@ -46,7 +46,7 @@
 ```java
 import java.util.*;
 
-public class BGurp {
+public class BGroup {
     // 두 점 사이의 거리 구하는 공식
     private double dist(int[][] P, int[][]Q, int s, int t) {
         // 배열 Q = 최근접 쌍을 저장할 배열, s = 처음 인덱스, t = 끝 인덱스
@@ -163,7 +163,7 @@ public class BGurp {
             System.out.println();
         }
 
-        BGurp closet = new BGurp();
+        BGroup closet = new BGroup();
         closet.Devide(A, Solve, 0, A.length-1);
 
         // 작성된 코드 실행 후 정답을 내보내는 print문 실행
