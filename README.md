@@ -16,7 +16,7 @@
    * **분할한 면끼리에서 생길 수 있는 최소 거리를 고려한다.**
 6. 두개의 면에서 나온 거리 중 최소 거리와 분할한 면 사이에서 생긴 최소 거리를 비교한다.
 7. 부분해를 모두 취합 후, 최소 거리를 가진 최근접 점 좌표를 찾아낸다.
-![알고리즘]https://casterian.net/wp-content/uploads/2018/04/%EA%B0%80%EC%9E%A5-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EB%91%90-%EC%A0%90-1-300x242.png
+![]https://casterian.net/wp-content/uploads/2018/04/%EA%B0%80%EC%9E%A5-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EB%91%90-%EC%A0%90-1-300x242.png
 
 
 
