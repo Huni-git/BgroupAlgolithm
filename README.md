@@ -50,7 +50,7 @@
 
 [위키백과(1번째사진)]([최근접 점쌍 문제 - 위키백과, 우리 모두의 백과사전 (wikipedia.org)](https://ko.wikipedia.org/wiki/최근접_점쌍_문제))
 
-[2번째사진]()
+[분할 정복(2번째사진)](https://www.javatpoint.com/divide-and-conquer-introduction)
 
 [IT 블로그(3번째 사진)]([[Algorithm\] 최근접 점의 쌍 찾기 (분할정복) | NoName, IT blog (dudri63.github.io)](https://dudri63.github.io/2019/01/19/algo8/))
 
