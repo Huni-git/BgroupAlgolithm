@@ -180,6 +180,8 @@ public class BGroup {
 
 ## 5. 결과
 
+<img width="563" alt="KakaoTalk_20210331_235049947" src="https://user-images.githubusercontent.com/80510945/113164648-3f44b700-927c-11eb-9152-3bd1531f080a.png">
+
 
 ## 6. 참조 및 이미지
 
