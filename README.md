@@ -46,6 +46,19 @@
 ```java
 
 
+
+ private void Devide(int[][] P, int[][] Q, int s, int t) {
+        if(t-s<=3) return; // [ 점의 개수가 3개 이하면 분할을 멈춘다 ]
+        int r = (s+t)/2; // 중간 index를 구해주는 과정이다.
+        Devide(P, Q, s, r); // [ 왼쪽을 재귀 호출해주는 과정 ]
+        Devide(P, Q,r+1, t); // [ 오른쪽을 재귀 호출해주는 과정]
+        conquer(P, Q, s, r, t); // merge 함수 호출
+    }
+
+
+
+
+
 ```
 
 
